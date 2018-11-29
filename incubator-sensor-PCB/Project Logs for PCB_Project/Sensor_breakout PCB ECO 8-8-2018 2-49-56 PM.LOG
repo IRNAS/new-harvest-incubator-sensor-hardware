@@ -1,0 +1,5 @@
+Added Component: Designator=C1(CAP0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Member To Class: ClassName=Sensor_Breakout Member=Component C1 100nF

@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Sensor_breakout.PcbDoc   08/29/2018  4:28:53 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Sensor_breakout.TXT
+EIA File   : Sensor_breakout.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             106       PTH        0.00inch (0.00mm)
+T2      30mil (0.75mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             12        PTH        0.00inch (0.00mm)
+T4      126mil (3.2mm)                                            Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              124
+
+Total Processing Time (hh:mm:ss) : 00:00:00
